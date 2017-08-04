@@ -1,5 +1,3 @@
-library(ggplot2)
-
 #download and unzip file in working directory
 download.file("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip", destfile = "assignmentData")
 unzip(zipfile = "assignmentData")
